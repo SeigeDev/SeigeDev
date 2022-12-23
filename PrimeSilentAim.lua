@@ -4,7 +4,6 @@
 local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/3A9wdSkL"))()
 loadstring(game:HttpGet('https://pastebin.com/raw/nfb0t7UB'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SeigeDev/SeigeDev/main/AntiAiMViewer.lua'))()
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "prime x zendo on top fr", Text = "/silentaim on top"
 
 Aiming.TeamCheck(false)
 
@@ -25,6 +24,7 @@ local LocalPlayer = Players.LocalPlayer
 local Mouse = LocalPlayer:GetMouse()
 
 local CurrentCamera = Workspace.CurrentCamera
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "prime x zendo on top fr", Text = "/silentaim on top"
 
 
 ---------------------------------------------------------------
