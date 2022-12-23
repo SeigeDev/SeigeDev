@@ -3,6 +3,7 @@
 -- note from 8tno, i took out useless shit LOL
 local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/3A9wdSkL"))()
 loadstring(game:HttpGet('https://pastebin.com/raw/nfb0t7UB'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SeigeDev/SeigeDev/main/AntiAiMViewer.lua'))()
 
 Aiming.TeamCheck(false)
 
